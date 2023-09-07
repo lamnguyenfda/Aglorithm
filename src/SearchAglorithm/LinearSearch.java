@@ -12,9 +12,7 @@ public class LinearSearch {
         }
       int x = sc.nextInt();
       System.out.println(search(a, x, n));
-      
     }
-
     static int search(int []arr, int x , int length ){
            for (int i = 0; i < length ; i++) {
             if (arr[i] == x) {
