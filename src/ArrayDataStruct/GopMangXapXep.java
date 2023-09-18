@@ -45,7 +45,6 @@ public class GopMangXapXep {
             j++;
             k++;
         }
-
         for (int d : c) {
             System.out.print(d + ", ");
         }
